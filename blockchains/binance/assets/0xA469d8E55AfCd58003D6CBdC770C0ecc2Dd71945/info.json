@@ -1,13 +1,13 @@
 {
- "name": "PlatinX",
-    "website": "https://platinx.io",
-    "description": "Platinx is a token developed on Binance Smart chain (BEP20). It's a digital utility crypto asset used for trading, swapping, staking & medium for exchanging. PTX vision is to leverage the advantage of global economical changes to its holders. PlatinX uses peer-to-peer technology to operate.",
-    "explorer": "https://bscscan.com/token/0xA469d8E55AfCd58003D6CBdC770C0ecc2Dd71945",
+    "name": "PlatinX",
     "type": "BEP20",
     "symbol": "PTX",
-    "decimals": 8,
-    "status": "active",
-    "id": "0xA469d8E55AfCd58003D6CBdC770C0ecc2Dd71945",
+    "decimals": 8, 
+    "description": "Platinx is a token developed on Binance Smart chain (BEP20). It's a digital utility crypto asset used for trading, swapping, staking & medium for exchanging. PTX vision is to leverage the advantage of global economical changes to its holders. PlatinX uses peer-to-peer technology to operate.",
+    "website": "https://platinx.io",
+    "explorer": "https://bscscan.com/token/0xA469d8E55AfCd58003D6CBdC770C0ecc2Dd71945",
+    "id": "0xA469d8E55AfCd58003D6CBdC770C0ecc2Dd71945",   
+        
 
 "links": [
         {
